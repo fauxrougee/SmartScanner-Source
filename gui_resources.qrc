@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource prefix="/">
+    <file alias="index.html">gui_assets/index.html</file>
+    <file alias="assets/index.js">gui_assets/assets/index.js</file>
+    <file alias="assets/index.css">gui_assets/assets/index.css</file>
+  </qresource>
+  <qresource prefix="/qtwebchannel">
+    <file alias="qwebchannel.js">assets/scripts/parser/qwebchannel.js</file>
+  </qresource>
+</RCC>

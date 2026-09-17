@@ -1,0 +1,9 @@
+# references
+# last: (CVE-2026-23918)
+# https://httpd.apache.org/security/vulnerabilities_24.html
+# https://www.cvedetails.com/product/66/Apache-Http-Server.html?vendor_id=45
+
+# Vulnerable versions
+>0 <=2.4.66
+
+# Patched versions

@@ -1,0 +1,6 @@
+# https://tomcat.apache.org/security-9.html
+
+# Vulnerable versions
+<=8.5.98 || >=9.0.0 <=9.0.117 || >=10.0.0 <=10.1.54 || >=11.0.0 <=11.0.21
+
+# Patched versions

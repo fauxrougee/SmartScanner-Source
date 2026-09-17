@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+  <qresource prefix="/assets">
+    <file alias="default-scan-config.json">assets/default-scan-config.json</file>
+    <file alias="issues/generic-min.json">assets/issues/generic-min.json</file>
+    <file alias="issues/ghsa-min.json">assets/issues/ghsa-min.json</file>
+    <file alias="scripts/parser/startup.js">assets/scripts/parser/startup.js</file>
+    <file alias="scripts/parser/qwebchannel.js">assets/scripts/parser/qwebchannel.js</file>
+    <file alias="scripts/parser/evaluation.js">assets/scripts/parser/evaluation.js</file>
+  </qresource>
+</RCC>
